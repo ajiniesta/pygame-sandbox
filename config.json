@@ -1,0 +1,10 @@
+{
+    "player_1": {
+        "type" : "human",
+        "keys": ["a", "b"]
+    },
+    "player_2": {
+        "type" : "human",
+        "keys": ["UP", "DOWN"]
+    }
+}
